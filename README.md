@@ -17,6 +17,10 @@ Copy code
 python app.py
 Usage
 Once the Flask application is running, open your web browser and navigate to http://localhost:5000 to access the web form. Enter the details of the property, and the application will predict the price based on the provided features.
+![Screenshot (41)](https://github.com/CHAFIQMohamed/House_prediction_flask/assets/76255423/a9566029-f94f-408a-ab0e-0fee8f1db3b1)
+
+### Demo
+
 
 ## Built With
 Python
